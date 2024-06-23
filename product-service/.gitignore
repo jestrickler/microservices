@@ -58,3 +58,6 @@ build/
 /data/WiredTiger.turtle
 /data/WiredTiger.wt
 /data/WiredTigerHS.wt
+/data/diagnostic.data/metrics.2024-06-23T15-26-02Z-00000
+/data/diagnostic.data/metrics.interim
+/data/journal/WiredTigerLog.0000000003
